@@ -1,0 +1,384 @@
+Region	Location	Genetic_cluster	SampleID	X	Y	Year	Month	Sex	Mass	Age	Age_rank
+Archbold	Archbold	Archbold	ALD01	-81.362	27.1301	2018	February	M	75		
+Archbold	Archbold	Archbold	ALD02	-81.362	27.1301	2018	February	F	74		
+Archbold	Archbold	Archbold	ALD03	-81.362	27.1301	2018	February	F	78		
+Archbold	Archbold	Archbold	ALD04	-81.362	27.1301	2018	February	F			
+Archbold	Archbold	Archbold	ALD05	-81.362	27.1301	2018	February	M	83		
+Archbold	Archbold	Archbold	ALD06	-81.362	27.1301	2018	February	F	67		
+Archbold	Archbold	Archbold	ALD07	-81.362	27.1301	2018	February	F	72		
+Archbold	Archbold	Archbold	ALD08	-81.362	27.1301	2018	February	M	73		
+Archbold	Archbold	Archbold	ALD09	-81.362	27.1301	2018	February	M	75		
+Archbold	Archbold	Archbold	ALD10	-81.362	27.1301	2018	February	M	79		
+Archbold	Archbold	Archbold	ALD11	-81.362	27.1301	2018	February	F			
+Archbold	Archbold	Archbold	ALD12	-81.362	27.1301	2018	February	M	77		
+Archbold	Archbold	Archbold	ALD13	-81.362	27.1301	2018	February	M	77		
+Archbold	Archbold	Archbold	ALD14	-81.362	27.1301	2018	February	M	76		
+Archbold	Archbold	Archbold	ALD15	-81.362	27.1301	2018	February	M	79		
+Archbold	Archbold	Archbold	ALD16	-81.362	27.1301	2018	March	F	71		
+Archbold	Archbold	Archbold	ALD17	-81.362	27.1301	2018	February	F	72		
+Archbold	Archbold	Archbold	ALD18	-81.362	27.1301	2018	February	F	77		
+Archbold	Archbold	Archbold	ALD19	-81.362	27.1301	2018	February	M	72		
+Archbold	Archbold	Archbold	ALD20	-81.362	27.1301	2018	March	M	72		
+Archbold	Archbold	Archbold	ALD21	-81.362	27.1301	2018	March	M	87		
+Archbold	Archbold	Archbold	ALD22	-81.362	27.1301	2018	March	M	85		
+Archbold	Archbold	Archbold	ALD23	-81.362	27.1301	2018	March	F			
+Archbold	Archbold	Archbold	ALD24	-81.362	27.1301	2018	March	F	77		
+Archbold	Archbold	Archbold	ALD26	-81.362	27.1301	2018	February	F	70		
+Archbold	Archbold	Archbold	ALD29	-81.362	27.1301	2018	March	M	79		
+NBC	Buck Lake	Admixed	BCK65	-80.900964	28.699698	2018	January	M	91	AHY	4
+NBC	Buck Lake	Admixed	BCK66	-80.900964	28.699698	2018	January	F	85	AHY	4
+NBC	Buck Lake	Admixed	BCK67	-80.900964	28.699698	2018	January	M	84	FY	1
+CBC	Cruickshank	CBC	CCK181	-80.707099	28.294553	2020	January		73	FY	1
+CBC	Cruickshank	CBC	CCK182	-80.707099	28.294553	2020	January		74	AHY	4
+CBC	Cruickshank	CBC	CCK183	-80.707099	28.294553	2020	January		81	AHY	4
+CBC	Cruickshank	CBC	CCK186	-80.707099	28.294553	2020	January	F	74	AHY	4
+CBC	Cruickshank	CBC	CCK188	-80.707099	28.294553	2020	January		71	AHY	4
+CBC	Cruickshank	CBC	CCK189	-80.707099	28.294553	2020	January		78	AHY	4
+CBC	Cruickshank	CBC	CCK190	-80.707099	28.294553	2020	January		76	AHY	4
+CBC	Cruickshank	CBC	CCK191	-80.707099	28.294553	2020	January			FY	1
+CBC	Cruickshank	CBC	CCK192	-80.707099	28.294553	2020	January			FY	1
+CBC	Cruickshank	CBC	CCK193	-80.707099	28.294553	2020	January		88	AHY	4
+CBC	Cruickshank	CBC	CCK197	-80.707099	28.294553	2020	January	F	76	AHY	4
+CBC	Cruickshank	CBC	CCK198	-80.707099	28.294553	2020	January		75	AHY	4
+CBC	Cruickshank	CBC	CCK26	-80.707099	28.294553	2017	December	F		AHY	4
+CBC	Cruickshank	CBC	CCK27	-80.707099	28.294553	2017	December	F		AHY	4
+CBC	Cruickshank	CBC	CCK28	-80.707099	28.294553	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK29	-80.707099	28.294553	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK30	-80.707099	28.294553	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK31	-80.707099	28.294553	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK32	-80.707099	28.294553	2017	December	F		AHY	4
+CBC	Cruickshank	CBC	CCK33	-80.707099	28.294553	2017	December	F		AHY	4
+CBC	Cruickshank	CBC	CCK34	-80.710712	28.29711	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK35	-80.710712	28.29711	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK36	-80.710712	28.29711	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK37	-80.710712	28.29711	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK38	-80.710712	28.29711	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK39	-80.710712	28.29711	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK40	-80.710712	28.29711	2017	December	M		HY	0
+CBC	Cruickshank	CBC	CCK400	-80.7071519	28.2955627	2021	September	F	74	HY	0
+CBC	Cruickshank	CBC	CCK401	-80.7071519	28.2955627	2021	September		72	HY	0
+CBC	Cruickshank	CBC	CCK402	-80.7071519	28.2955627	2021	September		76	HY	0
+CBC	Cruickshank	CBC	CCK403	-80.7071519	28.2955627	2021	September		70	HY	0
+CBC	Cruickshank	CBC	CCK404	-80.7071519	28.2955627	2021	September		76	HY	0
+CBC	Cruickshank	CBC	CCK407	-80.7065732	28.29923333	2021	June		79	HY	0
+CBC	Cruickshank	CBC	CCK408	-80.7065732	28.29923333	2021	June	F	84	AHY	4
+CBC	Cruickshank	CBC	CCK409	-80.7065732	28.29923333	2021	June		74	AHY	4
+CBC	Cruickshank	CBC	CCK411	-80.7071519	28.2955627	2021	June		82	HY	0
+CBC	Cruickshank	CBC	CCK412	-80.7071519	28.2955627	2021	June	M	79	AHY	4
+CBC	Cruickshank	CBC	CCK413	-80.7071519	28.2955627	2021	June	M	86	AHY	4
+CBC	Cruickshank	CBC	CCK414	-80.7071519	28.2955627	2021	June		78	HY	0
+CBC	Cruickshank	CBC	CCK415	-80.7071519	28.2955627	2021	June		85	HY	0
+CBC	Cruickshank	CBC	CCK416	-80.7071519	28.2955627	2021	June	M	91	AHY	4
+CBC	Cruickshank	CBC	CCK417	-80.7071519	28.2955627	2021	June		86	AHY	4
+CBC	Cruickshank	CBC	CCK418	-80.7071519	28.2955627	2021	June	M	86	AHY	4
+CBC	Cruickshank	CBC	CCK419	-80.7071519	28.2955627	2021	June	F	81	AHY	4
+CBC	Cruickshank	CBC	CCK42	-80.710712	28.29711	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK420	-80.7071519	28.2955627	2021	June		83	HY	0
+CBC	Cruickshank	CBC	CCK421	-80.7071519	28.2955627	2021	June		89	AHY	4
+CBC	Cruickshank	CBC	CCK422	-80.7071519	28.2955627	2021	June		84	AHY	4
+CBC	Cruickshank	CBC	CCK423	-80.7071519	28.2955627	2021	September	F	75	HY	0
+CBC	Cruickshank	CBC	CCK424	-80.7071519	28.2955627	2021	September	M	84	HY	0
+CBC	Cruickshank	CBC	CCK425	-80.7071519	28.2955627	2021	September		78	AHY	4
+CBC	Cruickshank	CBC	CCK426	-80.7071519	28.2955627	2021	September	M	80	AHY	4
+CBC	Cruickshank	CBC	CCK427	-80.7071519	28.2955627	2021	September	M	85	AHY	4
+CBC	Cruickshank	CBC	CCK428	-80.7071519	28.2955627	2021	September	F	79	HY	0
+CBC	Cruickshank	CBC	CCK429	-80.7071519	28.2955627	2021	September	F	77	HY	0
+CBC	Cruickshank	CBC	CCK43	-80.706388	28.297624	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK430	-80.7071519	28.2955627	2021	September	F	81	HY	0
+CBC	Cruickshank	CBC	CCK431	-80.7071519	28.2955627	2021	September		78	AHY	4
+CBC	Cruickshank	CBC	CCK432	-80.7071519	28.2955627	2021	September		85	HY	0
+CBC	Cruickshank	CBC	CCK433	-80.7071519	28.2955627	2021	September		86	HY	0
+CBC	Cruickshank	CBC	CCK434	-80.7071519	28.2955627	2021	September		77	AHY	4
+CBC	Cruickshank	CBC	CCK44	-80.706388	28.297624	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK45	-80.706388	28.297624	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK46	-80.710712	28.29711	2017	December	M	79	HY	0
+CBC	Cruickshank	CBC	CCK47	-80.710712	28.29711	2017	December	M		AHY	4
+CBC	Cruickshank	CBC	CCK479	-80.7065924	28.2991462	2022	January			HY	0
+CBC	Cruickshank	CBC	CCK48	-80.710712	28.29711	2017	December	F	72	AHY	4
+CBC	Cruickshank	CBC	CCK481	-80.7065924	28.2991462	2022	January			AHY	4
+CBC	Cruickshank	CBC	CCK482	-80.7065924	28.2991462	2022	January			HY	0
+CBC	Cruickshank	CBC	CCK483	-80.7065924	28.2991462	2022	January	M		HY	0
+CBC	Cruickshank	CBC	CCK484	-80.7065924	28.2991462	2022	January			HY	0
+CBC	Cruickshank	CBC	CCK485	-80.7065924	28.2991462	2022	January			HY	0
+CBC	Cruickshank	CBC	CCK487	-80.7065924	28.2991462	2022	January			HY	0
+CBC	Cruickshank	CBC	CCK488	-80.7065924	28.2991462	2022	January			AHY	4
+CBC	Cruickshank	CBC	CCK49	-80.710712	28.29711	2017	December	M	87	HY	0
+CBC	Cruickshank	CBC	CCK491	-80.7065924	28.2991462	2022	January			AHY	4
+CBC	Cruickshank	CBC	CCK492	-80.7065924	28.2991462	2022	January			HY	0
+CBC	Cruickshank	CBC	CCK50	-80.709211	28.300305	2017	December	M	75	AHY	4
+CBC	Cruickshank	CBC	CCK506	-80.7135919	28.295596	2023	February			AHY	4
+CBC	Cruickshank	CBC	CCK508	-80.7135919	28.295596	2023	February			AHY	4
+CBC	Cruickshank	CBC	CCK51	-80.709211	28.300305	2017	December	M	81	AHY	4
+CBC	Cruickshank	CBC	CCK510	-80.7135919	28.295596	2023	February			AHY	4
+CBC	Cruickshank	CBC	CCK511	-80.7135919	28.295596	2023	February			AHY	4
+CBC	Cruickshank	CBC	CCK513	-80.7135919	28.295596	2023	February			AHY	4
+CBC	Cruickshank	CBC	CCK515	-80.7135919	28.295596	2023	February			AHY	4
+CBC	Cruickshank	CBC	CCK516	-80.7135919	28.295596	2023	February			HY	0
+CBC	Cruickshank	CBC	CCK517	-80.7135919	28.295596	2023	February			AHY	4
+CBC	Cruickshank	CBC	CCK518	-80.7135919	28.295596	2023	February			HY	0
+CBC	Cruickshank	CBC	CCK52	-80.709211	28.300305	2017	December	M	85	AHY	4
+CBC	Cruickshank	CBC	CCK53	-80.709211	28.300305	2017	December	M	84	HY	0
+CBC	Cruickshank	CBC	CCK54	-80.709211	28.300305	2017	December	M	87	HY	0
+CBC	Cruickshank	CBC	CCK55	-80.709211	28.300305	2017	December	F	75	HY	0
+Merritt Island	Canaveral National Seashore	Merritt Island	CNS214	-80.6828877	28.6446725	2020	January	M		AHY	4
+Merritt Island	Canaveral National Seashore	Merritt Island	CNS215	-80.6828877	28.6446725	2020	January	F		FY	1
+Merritt Island	Canaveral National Seashore	Merritt Island	CNS216	-80.6828877	28.6446725	2020	January	M		FY	1
+Merritt Island	Canaveral National Seashore	Merritt Island	CNS218	-80.6828877	28.6446725	2020	January	F		AHY	4
+NBC	Dicerandra	Admixed	DCE56	-80.813227	28.553116	2018	January	M	83	AHY	4
+NBC	Dicerandra	Admixed	DCE57	-80.813227	28.553116	2018	January	F	79	AHY	4
+NBC	Dicerandra	Admixed	DCE58	-80.813227	28.553116	2018	January	F	83	AHY	4
+NBC	Dicerandra	Admixed	DCE59	-80.813227	28.553116	2018	January	F		AHY	4
+NBC	Dicerandra	Admixed	DCE60	-80.813227	28.553116	2018	January	F	83	AHY	4
+NBC	Dicerandra	Admixed	DCE61	-80.813227	28.553116	2018	January	M	73	AHY	4
+NBC	South Lake	SL	EF244	-80.8696817	28.6390509	2020	February	M		FY	1
+NBC	South Lake	SL	EF245	-80.8696817	28.6390509	2020	February	F		FY	1
+NBC	South Lake	SL	EF246	-80.8696817	28.6390509	2020	February	M	82	AHY	4
+NBC	South Lake	SL	EF247	-80.8696817	28.6390509	2020	February	F	82	AHY	4
+NBC	FOX Lake	Admixed	FOX383	-80.884694	28.586996	2021	February	F			
+NBC	South Lake	SL	FOX384	-80.884694	28.586996	2021	February	F			
+NBC	FOX Lake	Admixed	FOX385	-80.884694	28.586996	2021	February	F			
+NBC	South Lake	SL	FOX62	-80.884694	28.586996	2018	January	F	82	AHY	4
+NBC	South Lake	SL	FOX63	-80.884694	28.586996	2018	January	M	85	AHY	4
+NBC	South Lake	SL	FOX64	-80.884694	28.586996	2018	January	M	82	FY	1
+NBC	FOX Lake	Admixed	FOX90	-80.884694	28.586996	2019	February	M	90	AHY	4
+NBC	FOX Lake	Admixed	FOX91	-80.884694	28.586996	2019	February	F	78	AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK01	-80.648182	28.623527	2017	November	F		AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK02	-80.648182	28.623527	2017	November	M		HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK100	-80.650862	28.633193	2019	November			AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK116	-80.650862	28.633193	2019	December			HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK117	-80.650862	28.633193	2019	December			HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK118	-80.650862	28.633193	2019	December			HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK119	-80.650862	28.633193	2019	December			HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK120	-80.650862	28.633193	2019	December			HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK121	-80.650862	28.633193	2019	December	F		AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK122	-80.650862	28.633193	2019	December	M		AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK128	-80.650862	28.633193	2020	January	M		AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK129			2020	January			FY	1
+Merritt Island	Happy Creek	Merritt Island	HCK130			2020	January				
+Merritt Island	Happy Creek	Merritt Island	HCK131	-80.650862	28.633193	2020	January	M		AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK132	-80.650862	28.633193	2020	January	F		AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK133	-80.656037	28.631331	2020	January				
+Merritt Island	Happy Creek	Merritt Island	HCK135	-80.650862	28.633193	2020	January	M		FY	1
+Merritt Island	Happy Creek	Merritt Island	HCK136	-80.650862	28.633193	2020	January	M		AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK138	-80.650862	28.633193	2020	January	F		FY	1
+Merritt Island	Happy Creek	Merritt Island	HCK139	-80.650862	28.633193	2020	January	M		AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK140	-80.650862	28.633193	2020	January			FY	1
+Merritt Island	Happy Creek	Merritt Island	HCK142	-80.655022	28.625227	2020	January	M		AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK219	-80.6427212	28.617446	2020	January			FY	1
+Merritt Island	Happy Creek	Merritt Island	HCK220	-80.6427212	28.617446	2020	January	F		FY	1
+Merritt Island	Happy Creek	Merritt Island	HCK221	-80.6427212	28.617446	2020	January	M		AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK222	-80.6637648	28.6354788	2020	January			AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK223	-80.6637648	28.6354788	2020	January			FY	1
+Merritt Island	Happy Creek	Merritt Island	HCK225	-80.6637648	28.6354788	2020	January	M		FY	1
+Merritt Island	Happy Creek	Merritt Island	HCK226	-80.6637648	28.6354788	2020	January	F		FY	1
+Merritt Island	Happy Creek	Merritt Island	HCK435	-80.663728	28.6331544	2021	December			HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK436	-80.663728	28.6331544	2021	December			HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK437	-80.663728	28.6331544	2021	December	M		HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK438	-80.6605724	28.6319222	2021	December	M		HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK439	-80.6662543	28.6180841	2021	December	M		AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK440	-80.6664561	28.6180903	2021	December			HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK441	-80.6664561	28.6180903	2021	December			HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK442	-80.6664561	28.6180903	2021	December	M		AHY	4
+Merritt Island	Happy Creek	Merritt Island	HCK443	-80.6621595	28.632828	2021	December			HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK444	-80.6621595	28.632828	2021	December			HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK445	-80.6621595	28.632828	2021	December	F		HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK446	-80.6541562	28.6272337	2021	December	F		HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK448	-80.6541562	28.6272337	2021	December	F		HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK97	-80.664209	28.631833	2019	August	M		HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK98	-80.666905	28.619879	2019	November	M		HY	0
+Merritt Island	Happy Creek	Merritt Island	HCK99	-80.666905	28.619879	2019	November	M		HY	0
+SBC	Malabar	SBC	MALB377	-80.5597102	27.9727197	2021	January		75	AHY	4
+SBC	Malabar	SBC	MALB378	-80.5597102	27.9727197	2021	January		88	AHY	4
+SBC	Malabar	SBC	MALB379	-80.5597102	27.9727197	2021	January	M	82	AHY	4
+SBC	Malabar	SBC	MALB380	-80.5597102	27.9727197	2021	January		84	AHY	4
+SBC	Malabar	SBC	MALB381	-80.5597102	27.9727197	2021	January		79	AHY	4
+SBC	Malabar	SBC	MALB382	-80.5597102	27.9727197	2021	January	M	82	AHY	4
+SBC	Malabar	SBC	MALB395	-80.5597102	27.9727197	2021	February		88	HY	0
+SBC	Malabar	SBC	MALB396	-80.5597102	27.9727197	2021	February	M	82	AHY	4
+SBC	Malabar	SBC	MALB397	-80.5597102	27.9727197	2021	February	M	97	AHY	4
+SBC	Malabar	SBC	MALB398	-80.5597102	27.9727197	2021	February	M	94	AHY	4
+SBC	Malabar	SBC	MALB451	-80.5597102	27.9727197	2021	December			AHY	4
+SBC	Malabar	SBC	MALB454	-80.5594041	27.9786094	2021	December			HY	0
+SBC	Malabar	SBC	MALB455	-80.5594041	27.9786094	2021	December	M		HY	0
+SBC	Malabar	SBC	MALB493	-80.5772123	28.0089197	2023	January			AHY	4
+SBC	Malabar	SBC	MALB494	-80.5772123	28.0089197	2023	January	F		AHY	4
+SBC	Malabar	SBC	MALB495	-80.5772123	28.0089197	2023	January			HY	0
+SBC	Malabar	SBC	MALB497	-80.5772123	28.0089197	2023	January	M		HY	0
+SBC	Malabar	SBC	MALB499	-80.5772123	28.0089197	2023	January	M		AHY	4
+SBC	Malabar	SBC	MALB500	-80.5772123	28.0089197	2023	January	M		AHY	4
+SBC	Malabar	SBC	MALB76	-80.5772123	28.0089197	2019	February	M	82	AHY	4
+SBC	Malabar	SBC	MALB77	-80.5772123	28.0089197	2019	February	F	82	AHY	4
+SBC	Malabar	SBC	MALB78	-80.5772123	28.0089197	2019	February	M	79	AHY	4
+SBC	Malabar	SBC	MALB79	-80.5772123	28.0089197	2019	February	M	79	FY 	1
+SBC	Malabar	SBC	MALB80	-80.5772123	28.0089197	2019	February	M	80	FY	1
+SBC	Malabar	SBC	MALB81	-80.5772123	28.0089197	2019	February	M	84	FY	1
+SBC	Malabar	SBC	MALB82	-80.5772123	28.0089197	2019	February	M	83	AHY	4
+SBC	Malabar	SBC	MALB83	-80.5772123	28.0089197	2019	February	F	78	AHY	4
+SBC	Malabar	SBC	MALB84	-80.5772123	28.0089197	2019	February	F	75	FY	1
+SBC	MICCO	SBC	MICCO227	-80.5979569	27.874416	2020	January	M		FY	1
+SBC	MICCO	SBC	MICCO236	-80.5979569	27.874416	2020	February	F			
+SBC	MICCO	SBC	MICCO237	-80.5979569	27.874416	2020	February	F			
+SBC	MICCO	SBC	MICCO239	-80.5979569	27.874416	2020	February	F		AHY	4
+SBC	MICCO	SBC	MICCO240	-80.5979569	27.874416	2020	February	F		FY	1
+SBC	MICCO	SBC	MICCO241	-80.5979569	27.874416	2020	February	M		AHY	4
+SBC	MICCO	SBC	MICCO242	-80.5979964	27.8843237	2020	February	F		AHY	4
+SBC	MICCO	SBC	MICCO243	-80.5979964	27.8843237	2020	February	M		AHY	4
+Ocala	Ocala	Ocala	OC01	-81.74084745	29.24461736	2021	January			ASY	3
+Ocala	Ocala	Ocala	OC04	-81.73321781	29.24403667	2021	March	F		ASY	3
+Ocala	Ocala	Ocala	OC05	-81.74073865	29.24237067	2021	March			SY	2
+Ocala	Ocala	Ocala	OC06	-81.73133253	29.2451932	2021	December			AHY	4
+Ocala	Ocala	Ocala	OC07	-81.73596575	29.24695478	2021	December	F		AHY	4
+Ocala	Ocala	Ocala	OC08	-81.73338135	29.24099426	2021	December			HY	0
+Ocala	Ocala	Ocala	OC09	-81.73395461	29.24489905	2021	December			HY	0
+Ocala	Ocala	Ocala	OC10	-81.74080122	29.24391364	2021	December			AHY	4
+Ocala	Ocala	Ocala	OC11	-81.7359761	29.24696375	2022	January	F		ASY	3
+Ocala	Ocala	Ocala	OC12	-81.73198939	29.24494592	2022	January			SY	2
+Ocala	Ocala	Ocala	OC13	-81.76519936	29.24651992	2022	January			ASY	3
+Ocala	Ocala	Ocala	OC14	-81.76598336	29.27715596	2022	January	F		ASY	3
+Ocala	Ocala	Ocala	OC15	-81.73336071	29.24098535	2022	January			SY	2
+Ocala	Ocala	Ocala	OC16	-81.7796629	29.29732926	2022	January			ASY	3
+Ocala	Ocala	Ocala	OC17	-81.73532727	29.24689511	2022	January			ASY	3
+Ocala	Ocala	Ocala	OC18	-81.7796629	29.29732926	2022	January			ASY	3
+Ocala	Ocala	Ocala	OC19	-81.86636223	29.42839672	2022	February			SY	2
+Ocala	Ocala	Ocala	OC20	-81.76287228	29.25050431	2022	February	F		ASY	3
+Ocala	Ocala	Ocala	OC21	-81.74682889	29.43289301	2022	February			SY	2
+Ocala	Ocala	Ocala	OC22	-81.76766791	29.24910503	2022	February	M		ASY	3
+Ocala	Ocala	Ocala	OC23	-81.80294056	29.12160572	2022	February			ASY	3
+Ocala	Ocala	Ocala	OC24	-81.80776639	29.12885114	2022	March			ASY	3
+Ocala	Ocala	Ocala	OC25	-81.80392525	29.1226648	2022	March			ASY	3
+Ocala	Ocala	Ocala	OC26	-81.80429585	29.12141709	2022	March	F		ASY	3
+Ocala	Ocala	Ocala	OC27	-85.69615472	29.04804066	2022	March			ASY	3
+Ocala	Ocala	Ocala	OC28	-81.77419216	29.27911224	2022	March	M		ASY	3
+Ocala	Ocala	Ocala	OC29	-81.74086615	29.24435552	2020	December			AHY	4
+Ocala	Ocala	Ocala	OC30	-81.73319787	29.24412703	2020	December			AHY	4
+Ocala	Ocala	Ocala	OC31	-81.86750633	29.42837122	2020	December			AHY	4
+Ocala	Ocala	Ocala	OC32	-81.86750633	29.42837122	2023	March	M		ASY	3
+Ocala	Ocala	Ocala	OC33	-81.86750633	29.42837122	2021	March	M		ASY	3
+Ocala	Ocala	Ocala	OC34	-81.86750633	29.42837122	2023	January	M		ASY	3
+Ocala	Ocala	Ocala	OC35	-81.86750633	29.42837122	2023	February	M		ASY	3
+Ocala	Ocala	Ocala	OC36	-81.86750633	29.42837122	2021	February	F		ASY	3
+Ocala	Ocala	Ocala	OC37	-81.86750633	29.42837122	2022	March	M		ASY	3
+Ocala	Ocala	Ocala	OC38	-81.86750633	29.42837122	2022	March	F		ASY	3
+Ocala	Ocala	Ocala	OC39	-81.86750633	29.42837122	2023	February	M		ASY	3
+Ocala	Ocala	Ocala	OC40	-81.86750633	29.42837122	2023	February	F		ASY	3
+Ocala	Ocala	Ocala	OC41	-81.86750633	29.42837122	2023	February	M		ASY	3
+Ocala	Ocala	Ocala	OC42	-81.86750633	29.42837122	2023	February	F		ASY	3
+Ocala	Ocala	Ocala	OC43	-81.86750633	29.42837122	2022	January	M		ASY	3
+Ocala	Ocala	Ocala	OC44	-81.86750633	29.42837122	2023	February	F		ASY	3
+Merritt Island	Ransom Road	Merritt Island	RR110	-80.6635362	28.5030328	2019	November	M		HY	0
+Merritt Island	Ransom Road	Merritt Island	RR111			2019	November			HY	0
+Merritt Island	Ransom Road	Merritt Island	RR112			2019	November			HY	0
+Merritt Island	Ransom Road	Merritt Island	RR113			2019	November			AHY	4
+Merritt Island	Ransom Road	Merritt Island	RR205	-80.6635362	28.5030328	2020	January	M		AHY	4
+Merritt Island	Ransom Road	Merritt Island	RR206	-80.6635362	28.5030328	2020	January	M			
+Merritt Island	Ransom Road	Merritt Island	RR207	-80.6635362	28.5030328	2020	January	M			
+Merritt Island	Ransom Road	Merritt Island	RR95			2019	August			HY	0
+Merritt Island	Ransom Road	Merritt Island	RR96			2019	August			HY	0
+Merritt Island	Shiloh	Merritt Island	SHIL101	-80.783382	28.771908	2019	November			HY	0
+Merritt Island	Shiloh	Merritt Island	SHIL103	-80.783382	28.771908	2019	November	F		AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL104	-80.783382	28.771908	2019	November			HY	0
+Merritt Island	Shiloh	Merritt Island	SHIL108	-80.783382	28.771908	2019	November	M		AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL145	-80.7957983	28.7803411	2020	January			AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL146	-80.7957983	28.7803411	2020	January	F		FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL147	-80.7957983	28.7803411	2020	January	F		AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL148	-80.7957983	28.7803411	2020	January	M		AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL154	-80.7893945	28.7804692	2020	January	F		AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL155	-80.7893945	28.7804692	2020	January			FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL158	-80.7893945	28.7804692	2020	January			FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL159	-80.7893945	28.7804692	2020	January	M		FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL162	-80.7666446	28.7735001	2020	January			FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL163	-80.781596	28.773824	2020	January	M		AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL165	-80.781596	28.773824	2020	January	F		AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL166	-80.781596	28.773824	2020	January	M		FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL167	-80.781596	28.773824	2020	January			FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL168	-80.7822394	28.772257	2020	January	M		AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL458	-80.7856233	28.7719096	2022	February			FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL459	-80.7856233	28.7719096	2022	February	M		FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL461	-80.7856233	28.7719096	2022	February			FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL463	-80.7856233	28.7719096	2022	February			FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL464	-80.7856233	28.7719096	2022	February			FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL465	-80.7892611	28.7760245	2022	February	F		AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL466	-80.7833495	28.7686622	2022	February			AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL467	-80.7833495	28.7686622	2022	February			FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL468	-80.7833495	28.7686622	2022	February			AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL469	-80.786379	28.7733661	2022	February			FY	1
+Merritt Island	Shiloh	Merritt Island	SHIL471	-80.786379	28.7733661	2022	February			AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL473	-80.7826407	28.7714465	2023	January			HY	0
+Merritt Island	Shiloh	Merritt Island	SHIL475	-80.7875441	28.7742301	2023	January	M		AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL476	-80.7875441	28.7742301	2023	January	F		HY	0
+Merritt Island	Shiloh	Merritt Island	SHIL477	-80.7875441	28.7742301	2023	January	M		AHY	4
+Merritt Island	Shiloh	Merritt Island	SHIL478	-80.7869413	28.7769252	2023	January	M		HY	0
+Merritt Island	Shiloh	Merritt Island	SHIL93	-80.783382	28.771908	2019	August			HY	0
+NBC	South Lake	SL	SLCA87	-80.875179	28.640572	2019	February	M	80	AHY	4
+NBC	South Lake	SL	SLCA88	-80.875179	28.640572	2019	February	M	83	FY	1
+NBC	South Lake	SL	SLCA89	-80.875179	28.640572	2019	February	F	72	AHY	4
+Merritt Island	Schwartz	Merritt Island	SRTZ124	-80.640322	28.579013	2019	December	M		HY	0
+Merritt Island	Schwartz	Merritt Island	SRTZ125	-80.640322	28.579013	2019	December	M		HY	0
+Merritt Island	Schwartz	Merritt Island	SRTZ126	-80.640322	28.579013	2019	December	M		HY	0
+Merritt Island	Schwartz	Merritt Island	SRTZ127	-80.640322	28.579013	2019	December	F		HY	0
+Merritt Island	Schwartz	Merritt Island	SRTZ199	-80.6365656	28.5790132	2020	January	M		FY	1
+Merritt Island	Schwartz	Merritt Island	SRTZ200	-80.6365656	28.5790132	2020	January	F		FY	1
+Merritt Island	Schwartz	Merritt Island	SRTZ201	-80.6365656	28.5790132	2020	January	F		AHY	4
+Merritt Island	Schwartz	Merritt Island	SRTZ202	-80.6365656	28.5790132	2020	January	F		FY	1
+Merritt Island	Schwartz	Merritt Island	SRTZ203	-80.6365656	28.5790132	2020	January	M		AHY	4
+Merritt Island	Schwartz	Merritt Island	SRTZ204	-80.6418012	28.5781437	2020	January	F		FY	1
+Merritt Island	TEL4	Merritt Island	TEL109	-80.6671374	28.4783351	2019	November			AHY	4
+Merritt Island	TEL4	Merritt Island	TEL229	-80.6671374	28.4783351	2020	February	M		FY	1
+Merritt Island	TEL4	Merritt Island	TEL230	-80.6671374	28.4783351	2020	February	F		AHY	4
+Merritt Island	TEL4	Merritt Island	TEL231	-80.6707865	28.478344	2020	February	M		AHY	4
+Merritt Island	TEL4	Merritt Island	TEL232	-80.6707865	28.478344	2020	February	M		AHY	4
+Merritt Island	TEL4	Merritt Island	TEL233	-80.6707865	28.478344	2020	February	M		AHY	4
+Merritt Island	TEL4	Merritt Island	TEL234	-80.6707865	28.478344	2020	February	M		AHY	4
+Merritt Island	TEL4	Merritt Island	TEL449	-80.6745426	28.463793	2021	December	M		HY	0
+Merritt Island	TEL4	Merritt Island	TEL450	-80.6745426	28.463793	2021	December	M		AHY	4
+SBC	Valkaria	SBC	VALK374	-80.5457554	27.948763	2021	January				
+SBC	Valkaria	SBC	VALK375	-80.5457554	27.948763	2021	January				
+SBC	Valkaria	SBC	VALK376	-80.5457554	27.948763	2021	January				
+SBC	Valkaria	SBC	VALK386	-80.5457554	27.948763	2021	February	F	81	AHY	4
+SBC	Valkaria	SBC	VALK387	-80.5457554	27.948763	2021	February	M	84	AHY	4
+SBC	Valkaria	SBC	VALK388	-80.5457554	27.948763	2021	February	M	79	HY	0
+SBC	Valkaria	SBC	VALK389	-80.5457554	27.948763	2021	February	M	82	HY	0
+SBC	Valkaria	SBC	VALK390	-80.5457554	27.948763	2021	February	M	86		
+SBC	Valkaria	SBC	VALK391	-80.5457554	27.948763	2021	February	M	87	AHY	4
+SBC	Valkaria	SBC	VALK392	-80.5457554	27.948763	2021	February	M	86	AHY	4
+SBC	Valkaria	SBC	VALK393	-80.5457554	27.948763	2021	February	M	88	AHY	4
+SBC	Valkaria	SBC	VALK394	-80.5457554	27.948763	2021	February	F	77	AHY	4
+SBC	Valkaria	SBC	VALK501	-80.5457554	27.948763	2023	February	M		AHY	4
+SBC	Valkaria	SBC	VALK502	-80.5457554	27.948763	2023	February	F		AHY	4
+SBC	Valkaria	SBC	VALK503	-80.5457554	27.948763	2023	February	M		AHY	4
+SBC	Valkaria	SBC	VALK505	-80.5447405	27.9448531	2023	February	M		HY	0
+CBC	Viera	CBC	VRA03	-80.698866	28.26478	2017	November	M		AHY	4
+CBC	Viera	CBC	VRA04	-80.698866	28.26478	2017	November	F		AHY	4
+CBC	Viera	CBC	VRA05	-80.698866	28.26478	2017	November	M		HY	0
+CBC	Viera	CBC	VRA06	-80.698866	28.26478	2017	November	M		AHY	4
+CBC	Viera	CBC	VRA07	-80.698866	28.26478	2017	November	M		AHY	4
+CBC	Viera	CBC	VRA08	-80.698866	28.26478	2017	November	M		AHY	4
+CBC	Viera	CBC	VRA09	-80.700824	28.267925	2017	November	F		AHY	4
+CBC	Viera	CBC	VRA10	-80.700824	28.267925	2017	November	M		AHY	4
+CBC	Viera	CBC	VRA11	-80.700824	28.267925	2017	November	M		AHY	4
+CBC	Viera	CBC	VRA114			2019	December			AHY	4
+CBC	Viera	CBC	VRA115			2019	December			AHY	4
+CBC	Viera	CBC	VRA12	-80.700824	28.267925	2017	November	M			
+CBC	Viera	CBC	VRA13	-80.704657	28.276206	2017	November	M		AHY	4
+CBC	Viera	CBC	VRA14	-80.704657	28.276206	2017	November				
+CBC	Viera	CBC	VRA15	-80.699301	28.27148	2017	November	F	81		
+CBC	Viera	CBC	VRA16	-80.704016	28.278467	2017	November	F	74	HY	0
+CBC	Viera	CBC	VRA17	-80.704016	28.278467	2017	November	M		HY	0
+CBC	Viera	CBC	VRA177	-80.704016	28.278467	2020	January		80	FY	1
+CBC	Viera	CBC	VRA18	-80.703312	28.283704	2017	November	F	77	AHY	4
+CBC	Viera	CBC	VRA20	-80.699301	28.27148	2017	November	F	71	AHY	4
+CBC	Viera	CBC	VRA208	-80.699301	28.27148	2020	January			FY	1
+CBC	Viera	CBC	VRA209	-80.699301	28.27148	2020	January			AHY	4
+CBC	Viera	CBC	VRA21	-80.699301	28.27148	2017	November	F	76	AHY	4
+CBC	Viera	CBC	VRA210	-80.699301	28.27148	2020	January			AHY	4
+CBC	Viera	CBC	VRA211	-80.699301	28.27148	2020	January			FY	1
+CBC	Viera	CBC	VRA212	-80.699301	28.27148	2020	January	M		AHY	4
+CBC	Viera	CBC	VRA213	-80.699301	28.27148	2020	January			FY	1
+CBC	Viera	CBC	VRA22	-80.699301	28.27148	2017	November	F	73	AHY	4
+CBC	Viera	CBC	VRA23	-80.703312	28.283704	2017	November	M	84	AHY	4
+CBC	Viera	CBC	VRA24	-80.703533	28.281046	2017	November	M	84	AHY  	4
+CBC	Viera	CBC	VRA25	-80.703533	28.281046	2017	November	F	82	AHY  	4
+CBC	Viera	CBC	VRA70			2018	December		75	AHY	4
+CBC	Viera	CBC	VRA71			2018	December		79	FY	1
+CBC	Viera	CBC	VRA72			2018	December		84	AHY	4
+CBC	Viera	CBC	VRA73	-80.703312	28.283704	2018	December		74	AHY	4
